@@ -13,3 +13,8 @@ This project presents an interactive Bakery Customization System prototype desig
 **Tools Used-**
 
 - Justinmind: Used to design and simulate the interactive prototypes with varying levels of customization.
+
+**Additional Resources**
+- R Script: Contains data analysis for user testing and satisfaction metrics.
+- Screenshots: Illustrate the UI flow and customization stages for both prototypes.
+
